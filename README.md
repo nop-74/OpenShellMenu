@@ -3,7 +3,7 @@
 
 # OPEN SHELL MENU
 
-A collection of utilities bringing back classic features to Windows.
+Набор утилит, возвращающих классические функции Windows.из  Windows 10-11 под  Windows 7
 
 *Originally* **[Classic Shell](http://www.classicshell.net)** *by [fradyrad](https://t.me/fradyrad)*
 
