@@ -39,6 +39,7 @@
 3. скачать OPEN SHELL MENU [OPEN SHELL MENU](https://clck.ru/3SFa5U)
 4. скачать OPEN SHELL MENU Русская версия [OPEN SHELL MENU](https://clck.ru/3SFaJT)
 5. Выбор языка [OPEN SHELL MENU](https://clck.ru/3SFaLM)
+6. Наш Telegram канал SOFT на PYTHON [SOFT на PYTHON](https://t.me/python_softs)
 ----
 ## Угостить меня Кофе
 
