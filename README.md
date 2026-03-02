@@ -36,7 +36,8 @@
 ![Alt text](https://github.com/nop-74/OpenShellMenu/blob/custom-button-dpi-scaling/Src/rus.png)
 1. Загрузите [language DLL](https://coddec.github.io/Classic-Shell/www.classicshell.net/translations/index.html) 
 2. Поместите его либо в папку установки Open-Shell, либо в папку "%ALLUSERSPROFILE%\OpenShell\Languages".
-3. скачать OPEN SHELL MENU [OPEN SHELL MENU](https://clck.ru/3SFa5U) 
+3. скачать OPEN SHELL MENU [OPEN SHELL MENU](https://clck.ru/3SFa5U)
+4. скачать OPEN SHELL MENU Русская версия [OPEN SHELL MENU](https://clck.ru/3SFaJT)
 ----
 ## Угостить меня Кофе
 
