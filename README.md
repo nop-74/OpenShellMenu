@@ -38,6 +38,7 @@
 2. Поместите его либо в папку установки Open-Shell, либо в папку "%ALLUSERSPROFILE%\OpenShell\Languages".
 3. скачать OPEN SHELL MENU [OPEN SHELL MENU](https://clck.ru/3SFa5U)
 4. скачать OPEN SHELL MENU Русская версия [OPEN SHELL MENU](https://clck.ru/3SFaJT)
+5. Выбор языка [OPEN SHELL MENU](https://clck.ru/3SFaLM)
 ----
 ## Угостить меня Кофе
 
