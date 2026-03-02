@@ -33,6 +33,7 @@
 > Если вы установите более старую версию в Windows для ARM (например, с помощью Parallels Desktop на Apple Silicon Mac), вы больше не сможете войти в свою учетную запись при следующей перезагрузке. Пожалуйста, воздержитесь от установки Open-Shell в Windows для ARM.
 
 ### Временный перевод/языковое решение
+![Alt text](https://github.com/nop-74/OpenShellMenu/blob/custom-button-dpi-scaling/Src/rus.png)
 1. Загрузите [language DLL](https://coddec.github.io/Classic-Shell/www.classicshell.net/translations/index.html) 
 2. Поместите его либо в папку установки Open-Shell, либо в папку "%ALLUSERSPROFILE%\OpenShell\Languages".
 3. скачать OPEN SHELL MENU [OPEN SHELL MENU](https://clck.ru/3SFa5U) 
